@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotideFW.Framework", "CotideFW.Framework\CotideFW.Framework.csproj", "{256E8CB1-4881-4E41-ABA3-F49F2A457194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{B94D72CA-F901-4059-B4CE-FC63E3E22306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256E8CB1-4881-4E41-ABA3-F49F2A457194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256E8CB1-4881-4E41-ABA3-F49F2A457194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256E8CB1-4881-4E41-ABA3-F49F2A457194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256E8CB1-4881-4E41-ABA3-F49F2A457194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94D72CA-F901-4059-B4CE-FC63E3E22306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94D72CA-F901-4059-B4CE-FC63E3E22306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94D72CA-F901-4059-B4CE-FC63E3E22306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94D72CA-F901-4059-B4CE-FC63E3E22306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CFDD427-0351-443B-AB62-54DA1E4521E7}
+	EndGlobalSection
+EndGlobal
